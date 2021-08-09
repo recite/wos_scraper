@@ -5,6 +5,7 @@ To collect retracted articles and the articles that cite them, we wrote a scrape
 ### Scripts
 
 * [scripts](scripts/)
+* Last updated in 2016
 
 ### Requirements
 
